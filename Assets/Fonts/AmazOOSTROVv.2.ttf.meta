@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 824a63f9db6963b4aae7d7d4e66ea0e1
+timeCreated: 1527765091
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AmazObitaemOstrovV.2
+  fontNames:
+  - AmazObitaemOstrovV.2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

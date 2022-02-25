@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PontoDeCesta
+  - CestaDePonto
+  - CestaDePonto2
+  - 2CestaDePonto
+  - 3CestaDePonto
+  - RedObstacle
+  - Trampolim
+  - Trampolim -
+  - Bola
+  - Trampolim Esquerda
+  - Trampolim PE
+  - Trampolim EF
+  - Trampolim QF
+  - Trampolim PQF
+  - Trampolim BEF
+  - Alavanca ON
+  - Alavanca OFF
+  - Alavanca OFF baixo
+  - Alavanca ON baixo
+  - Alavanca ON2
+  - Alavanca OFF2
+  - Alavanca OFF baixo 2
+  - Alavanca OFN baixo 2
+  - Alavanca OFF Gear
+  - Alavanca ON Gear
+  - Alavanca OFF GearB
+  - Alavanca ON GearB
+  - Alavanca OFF GearC
+  - Alavanca ON GearC
+  - Alavanca OFF GearC2
+  - Alavanca ON GearC2
+  - AlavancaOFF150
+  - AlavancaON150
+  - ButtonClose
+  - ButtonOpen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Menu
+  - CanvasMenuzinho
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cesta
+    uniqueID: 3470000189
+    locked: 0
+  - name: Bola
+    uniqueID: 3890658387
+    locked: 0
+  - name: CestaFrente
+    uniqueID: 2998534519
+    locked: 0
+  - name: BG
+    uniqueID: 1570351897
+    locked: 0
+  - name: Level
+    uniqueID: 3702497129
+    locked: 0
+  - name: MenuPassou
+    uniqueID: 775718463
+    locked: 0
+  - name: BotoesMenu
+    uniqueID: 3050940185
+    locked: 0

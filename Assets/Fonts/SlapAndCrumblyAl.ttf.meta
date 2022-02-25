@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3601113b66e6dcf49a4238ce10306a37
+timeCreated: 1527333408
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SlapAndCrumblyAl
+  fontNames:
+  - SlapAndCrumblyAl
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
